@@ -289,7 +289,7 @@ Dataset is available under [CC BY 4.0 License](https://creativecommons.org/licen
 
 ## 👤 Author
 
-**BITS WILP M.Tech AIML/DSE Student**
+**Shanmugasundaram M**
 
 Machine Learning - Assignment 2
 
